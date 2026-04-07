@@ -1,0 +1,1 @@
+Apenas alguns projetos feitos pra estudar sobre o Python, alguns códigos teram mais coisas que outros por se tratar do tempo que me dediquei ou por eu ter passado meu tempo testando e estudando como funcionava
